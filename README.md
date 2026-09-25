@@ -1,4 +1,4 @@
-# Velria
+# Velria: Generative AI for Pupil Wellbeing Narratives
 
 Velria explores **generative AI for eliciting pupil wellbeing narratives**. This repository is the public reference for the project.
 
